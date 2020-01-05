@@ -1,3 +1,0 @@
-## ScoreboardAPI
-
-Coming Soon™
